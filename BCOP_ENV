@@ -1,0 +1,4 @@
+DW_DEV_CONN="dbname=dev user=elsie_qureshi host=clarify-datawarehouse.cnvgeddnkwv5.us-west-2.redshift.amazonaws.com password=A24@aDKRu@Z!pjmA port=5439"
+AWS_ACCESS_KEY_ID=AKIAJAXGETMXSFOEOTBA
+AWS_SECRET_ACCESS_KEY=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
+export DW_DEV_CONN

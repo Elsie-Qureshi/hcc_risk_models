@@ -13,7 +13,7 @@ setup(
     author_email = 'gabriel.altay@gmail.com',
 
     packages = find_packages(),
-    install_requires = ['numpy', 'pandas', 'python-dateutil', 'pytz', 'six'],
+    install_requires = ['numpy', 'pandas', 'python-dateutil', 'pytz', 'six', 'requests'],
     package_data = {
         '': ['*.csv', '*.txt'],
     },
